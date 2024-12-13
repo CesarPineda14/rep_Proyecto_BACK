@@ -57,16 +57,3 @@ Se desarrollaron prototipos visuales mediante la herramienta de [DALL-E](https:/
 - Implementar operaciones de base de datos en los controladores. ✅
 Ejemplo de Proyecto: EcomHub
 Descripción: EcomHub es una plataforma de ecommerce donde los usuarios pueden comprar y vender productos. Incluye gestión de usuarios, productos y pedidos.
-
-
-
-
-## Autores ✒️
-
-
-* **Cesar Javier Pineda Delgado** - *CesarPineda14* - [CesarPineda14](https://github.com/CesarPineda14)
-* **Yhonatan Steven Gomez Jimenez** - *YhonatanGoomez* - [YhonatanGoomez](https://github.com/YhonatanGoomez)
-* **Steven Alejandro Huertas Lemus** - *jacro103* - [jacro103](https://github.com/jacro103)
-* **José Alejandro Correa Rodríguez** - *Alejandrolhuertass* - [YhonatanGoomez](https://github.com/AlejandroLHuertass)
-* **Carlos Alberto Sorza Gomez** - *carlossorza* - [carlossorza](https://github.com/CarlosSorza)
-
